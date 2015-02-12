@@ -1,0 +1,45 @@
+body { 
+	margin:5%; 
+	text-align:justify;
+	background-image: url("images/abstract-paper-backgrounds-powerpoint.jpg");
+}
+
+P { 
+	text-indent: 1em; 
+	margin-top: .25em; 
+	margin-bottom: .25em;
+}
+
+h1 {
+    text-align: center;
+    color: #330099;
+}
+
+h2 {
+    text-align: center;
+    color: #000066;
+}
+
+h3 {
+    text-align: center;
+} 
+
+H4,H5,H6 { 
+	text-align: center;	 
+	margin-left: 15%; 
+	margin-right: 15%; 
+}
+
+img {
+    width:534px;
+    height:348px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+   
+figcaption {
+    text-align: center;
+}
+ 
+
